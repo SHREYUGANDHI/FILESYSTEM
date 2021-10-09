@@ -1,4 +1,3 @@
-# FILESYSTEM
 Write a Node.js program to do the following:
 Create Directory ( Hint: fs.mkdir )
 Remove Directory ( Hint: fs.rmdir )
